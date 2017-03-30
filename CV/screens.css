@@ -1,0 +1,29 @@
+body{
+  margin: 30px;
+}
+ul{
+  list-style-type: none;
+}
+
+.nom-logo{
+  font-weight: bolder;
+}
+dt {
+  text-align: right;
+}
+.iconContainer{
+  background-color: rgb(164, 151, 245);
+  height: 50vh;
+  width: 100px;
+}
+.icone{
+  width: 100px;
+  display:flex;
+  flex-direction: column;
+
+  background-color: red;
+}
+
+.titles{
+  font-weight: bold;
+}
